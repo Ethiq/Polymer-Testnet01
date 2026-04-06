@@ -291,7 +291,7 @@ npx hardhat run scripts/send-universal-packet.js --network base
 
 To send a universal packet from the contract specified in the config.sendUniversalPacket field in the config.
 
-## 🤝 Contributing
+## 🤝 Contributing and exploring
 
 We welcome and encourage contributions from our community! Here’s how you can contribute.
 
